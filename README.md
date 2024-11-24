@@ -1,3 +1,2 @@
-# circle_animation
-bu animatsiya html va css da qilingan 
-hech qanday js yoki rasmlar kerak emas 
+# Circle Animation
+We created an animated circle using Html, Css,
